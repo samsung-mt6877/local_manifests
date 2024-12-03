@@ -12,6 +12,7 @@
   <project path="vendor/samsung/a34x" name="vendor_samsung_a34x" remote="smt6877" revision="lineage-22.0"/>
 
   <!--Misc -->
+  <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" revision="lineage-22.0" remote="lineage"/>
   <project path="hardware/mediatek" name="android_hardware_mediatek" revision="lineage-22.0" remote="lineage"/>
   <project path="hardware/samsung" name="android_hardware_samsung" revision="lineage-22.0" remote="lineage"/>
 </manifest>
