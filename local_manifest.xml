@@ -15,4 +15,5 @@
 
   <!--Misc -->
   <project name="LineageOS/android_hardware_mediatek" path="hardware/mediatek" revision="lineage-22" remote="github" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" revision="lineage-22" remote="github" />
 </manifest>
