@@ -14,6 +14,6 @@
   <project path="vendor/samsung/a34x" name="vendor_samsung_a34x" remote="smt6877" revision="lineage-22" />
 
   <!--Misc -->
-  <project name="LineageOS/android_hardware_mediatek" path="hardware/mediatek" revision="lineage-22" remote="github" />
-  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" revision="lineage-22" remote="github" />
+  <project name="LineageOS/android_hardware_mediatek" path="hardware/mediatek" revision="lineage-22.0" remote="github" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" revision="lineage-22.0" remote="github" />
 </manifest>
