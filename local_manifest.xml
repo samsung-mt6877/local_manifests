@@ -3,15 +3,15 @@
   <remote name="smt6877" fetch="https://github.com/samsung-mt6877"/>
   <remote name="lineage" fetch="https://github.com/LineageOS"/>
   <!--Tree -->
-  <project path="device/samsung/a34x" name="device_samsung_a34x" remote="smt6877" revision="lineage-22" />
+  <project path="device/samsung/a34x" name="device_samsung_a34x" remote="smt6877" revision="lineage-22.0"/>
 
   <!--Kernel -->
-  <project path="kernel/samsung/mt6777" name="kernel_samsung_mt6877" remote="smt6877" revision="upstream" />
+  <project path="kernel/samsung/mt6777" name="kernel_samsung_mt6877" remote="smt6877" revision="upstream"/>
 
   <!--Vendor -->
-  <project path="vendor/samsung/a34x" name="vendor_samsung_a34x" remote="smt6877" revision="lineage-22" />
+  <project path="vendor/samsung/a34x" name="vendor_samsung_a34x" remote="smt6877" revision="lineage-22.0"/>
 
   <!--Misc -->
-  <project path="hardware/mediatek" name="android_hardware_mediatek" revision="lineage-22.0" remote="lineage" />
-  <project path="hardware/samsung" name="android_hardware_samsung" revision="lineage-22.0" remote="lineage" />
+  <project path="hardware/mediatek" name="android_hardware_mediatek" revision="lineage-22.0" remote="lineage"/>
+  <project path="hardware/samsung" name="android_hardware_samsung" revision="lineage-22.0" remote="lineage"/>
 </manifest>
