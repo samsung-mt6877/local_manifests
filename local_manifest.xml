@@ -6,7 +6,7 @@
   <project path="device/samsung/a34x" name="device_samsung_a34x" remote="smt6877" revision="lineage-22.0"/>
 
   <!--Kernel -->
-  <project path="kernel/samsung/mt6777" name="kernel_samsung_mt6877" remote="smt6877" revision="upstream"/>
+  <project path="kernel/samsung/mt6877" name="kernel_samsung_mt6877" remote="smt6877" revision="upstream"/>
 
   <!--Vendor -->
   <project path="vendor/samsung/a34x" name="vendor_samsung_a34x" remote="smt6877" revision="lineage-22.0"/>
